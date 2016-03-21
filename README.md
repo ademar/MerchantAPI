@@ -11,6 +11,7 @@ To install the library in your .NET project, run the following command in the Pa
 
 ```bash
 PM> Install-Package Monitex.Client
+```
 
 Sample client code in C#
 ========================
